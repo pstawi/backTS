@@ -12,7 +12,7 @@ import  usersRoutes from './routes/usersRoutes';
 
 console.log("[START] Démarrage de l'application");
 const app = express();
-const PORT = 3000;
+const PORT = 5000;
 
 console.log("[CONFIG] Configuration d'Express");
 // Middleware pour parser les requêtes JSON dans le body
